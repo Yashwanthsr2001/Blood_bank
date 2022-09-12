@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\cpics"
+		},
+		{
+			"path": "..\\css"
+		},
+		{
+			"path": "..\\doner_pic"
+		},
+		{
+			"path": "..\\donor"
+		},
+		{
+			"path": "..\\Images"
+		},
+		{
+			"path": "..\\img"
+		},
+		{
+			"path": "..\\js"
+		},
+		{
+			"path": "..\\Report"
+		},
+		{
+			"path": "..\\Scripts"
+		}
+	]
+}
